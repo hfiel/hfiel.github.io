@@ -2,7 +2,7 @@ title: Memory vault
 description: An attemp to store volatile memories
 show_downloads: false
 git_branch: master
-logo_url: https://media.hfiel.es/small.png
+logo_url: https://github.com/hfiel/hfiel.github.io/raw/master/assets/images/small.png
 google_analytics:
 theme:
 wiki_folder: wiki
