@@ -1,3 +1,3 @@
 # Categories
 
-[Linux](linux.MD)
+[Linux](linux.md)

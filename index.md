@@ -6,7 +6,7 @@ This is a permanent WIP.
 Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.hfiel.es)
 
 
-## [Categories](wiki/categories.MD)
+## [Categories](wiki/categories.md)
 
 ## Old Projects:
 
