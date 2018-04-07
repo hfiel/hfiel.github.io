@@ -1,4 +1,4 @@
-#Ubuntu 10.04 sin monitor
+# Ubuntu 10.04 sin monitor
 
 Acabo de terminar de montar un Ubuntu 10.04 que voy a dejar quietecito en una esquina y sólo con un cable de red y el de corriente.
 
