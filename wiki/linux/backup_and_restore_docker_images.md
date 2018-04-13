@@ -62,7 +62,7 @@ while read line; do docker tag $line; done < /path/to/tags.txt
 
 # Extra: moving images locally to a different storage driver
 
-Once upon a time, in a system I had to [change the storage driver due to some issues](linux/fixing_docker_storage_driver_issues_in_ubuntu.md).
+Once upon a time, in a system I had to [change the storage driver due to some issues](fixing_docker_storage_driver_issues_in_ubuntu.md).
 
 If I had just defined a different driver, all the images would be "missing" in the new storage driver (although still existing in the old one), so it required a full backup and restore, with some cleaning in the middle.
 
