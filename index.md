@@ -8,25 +8,25 @@ Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.
 
 ## [Categories](wiki/categories.md)
 
-[Linux](wikilinux.md)
+[Linux](wiki/linux.md)
 
-[Windows](wikiwindows.md)
+[Windows](wiki/windows.md)
 
-[Apple](wikiapple.md)
+[Apple](wiki/apple.md)
 
-[LibreOffice](wikilibreoffice.md)
+[LibreOffice](wiki/libreoffice.md)
 
-[Programación](wikiprogramacion.md)
+[Programación](wiki/programacion.md)
 
-[BBDD](wikibbdd.md)
+[BBDD](wiki/bbdd.md)
 
-[Redes](wikiredes.md)
+[Redes](wiki/redes.md)
 
-[Raspberry](wikiraspberry.md)
+[Raspberry](wiki/raspberry.md)
 
-[Software](wikisoftware.md)
+[Software](wiki/software.md)
 
-[Varios](wikivarios.md)
+[Varios](wiki/varios.md)
 
 
 
