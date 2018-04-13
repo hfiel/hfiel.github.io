@@ -26,7 +26,7 @@ Error starting daemon: error initializing graphdriver: /var/lib/docker contains 
 
 ```
 
-After googling a bit, I found someone which had a similar issue (https://tutel.me/c/programming/questions/45103803/not+able+to+start+docker+on+ubuntu+16042+lts+error+initializing+graphdriver), and the solution (https://docs.docker.com/storage/storagedriver/overlayfs-driver/#configure-docker-with-the-overlay-or-overlay2-storage-driver)
+After googling a bit, [I found someone which had a similar issue](https://tutel.me/c/programming/questions/45103803/not+able+to+start+docker+on+ubuntu+16042+lts+error+initializing+graphdriver), and [the solution](https://docs.docker.com/storage/storagedriver/overlayfs-driver/#configure-docker-with-the-overlay-or-overlay2-storage-driver)
 
 Please note: if you *change* to a different storage driver, your images and containers may seem to __dissapear__ (although they will probably be still there). Check [how to backup images](linux/backup_and_restore_docker_images.md) for information about changing the storage driver.
 

@@ -11,7 +11,7 @@ In order to fully backup images in a system (for moving or copying them somewher
 
 This assumes you want to backup all the images on the system together.
 
-The backup part is via: https://stackoverflow.com/a/37650072/9001677
+The backup part is via [Franklin Piat](https://stackoverflow.com/a/37650072/9001677)
 
 ## Save the tags
 
