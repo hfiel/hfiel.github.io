@@ -26,3 +26,7 @@
 [Fixing docker storage driver issues in Ubuntu](linux/fixing_docker_storage_driver_issues_in_ubuntu.md)
 
 [Backup and restore docker images](linux/backup_and_restore_docker_images.md)
+
+
+## System et all
+[Fixing strange chars in terminal when pasting](linux/fixing_strange_chars_in_terminal_when_pasting.md)
