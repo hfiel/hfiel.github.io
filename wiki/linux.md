@@ -30,3 +30,6 @@
 
 ## System et all
 [Fixing strange chars in terminal when pasting](linux/fixing_strange_chars_in_terminal_when_pasting.md)
+
+## SSL
+[Concatenation of SSL certificates for use with HAProxy](linux/haproxy_ssl_certificate_concatenation_for_pem.md)
