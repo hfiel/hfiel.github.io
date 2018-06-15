@@ -32,5 +32,5 @@
 [Fixing strange chars in terminal when pasting](linux/fixing_strange_chars_in_terminal_when_pasting.md)
 
 ## SSL
-[Generate a self signed SSL certificate with your own CA for testing](create_self_signed_ssl_certificate_with_ca.md)
+[Generate a self signed SSL certificate with your own CA for testing](linux/create_self_signed_ssl_certificate_with_ca.md)
 [Concatenation of SSL certificates for use with HAProxy](linux/haproxy_ssl_certificate_concatenation_for_pem.md)
