@@ -26,6 +26,9 @@ por
 GatewayPorts yes
 ```
 
+_Cuidado:_ esto permitirá a cualquier persona (cualquier IP) usar para el reenvío de paquetes los puertos del Equipo B que se definan en la conexión (la conexión la creamos en el siguiente punto). En la práctica, todas las peticiones a C estarían llegando desde B, por lo que esto se podría usar para enmascarar un ataque que se estuviera produciendo desde A o desde otro equipo D que sea capaz de ver a B.
+
+Ten presente esto si configuras la opcin `GatewayPorts` en un servidor expuesto a Internet. Consulta en la documentacin de ssh la opción `clientspecified` si necesitas permitir el reenvío sólo para ciertas IP.
 
 
 ## En el host A:
