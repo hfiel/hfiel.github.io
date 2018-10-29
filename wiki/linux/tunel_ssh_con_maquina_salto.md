@@ -41,7 +41,7 @@ ssh -R 9000:192.168.1.10:80 usuario@192.168.0.11
 En el navegador web abrimos:
 
 ```
-http://localhost:9000
+http://192.168.0.11:9000
 ```
 
 la petición se enviará al Equipo B, que la reenviará al puerto 80 del equipo C
