@@ -33,7 +33,7 @@
 ## System et all
 [Fixing strange chars in terminal when pasting](linux/fixing_strange_chars_in_terminal_when_pasting.md)
 
-[Saving a read-only file in Vi](linux_saving_a_read_only_file_in_vi.md)
+[Saving a read-only file in Vi](linux/saving_a_read_only_file_in_vi.md)
 
 ## SSL
 [Generate a self signed SSL certificate with your own CA for testing](linux/create_self_signed_ssl_certificate_with_ca.md)
