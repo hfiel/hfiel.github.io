@@ -32,10 +32,11 @@ Instrucciones para reemplazar el modem/router de fibra que te instalan en MasMov
 
 *NOTA*: para evitar colisiones de red con otros equipos en el futuro, yo configuro el router con la IP 192.168.2.1, dejando de esta forma libre la 192.168.1.1 para instalar dispositivos nuevos, y además configuro otra segunda subred para tener dos segmentos aislados con salida independiente a Internet. Ajusta los valores de las IP según tu caso, y ajusta las configuraciones de cada interfaz si tienes otro modelo de EdgeRouter.
 
-1. Conecta la alimentación y el cable de red al puerto **eth0** de tu edgerouter, conecta el otro extremo del cable de red al PC (directamente) y accede a la interfaz de gestión (http://192.168.1.1) con el usuario predeterminado (ubnt/ubnt). Cuando te aparezca el asistente de configuración inicial, cancela el asistente.
-2. Actualiza el firmware del edgerouter a la última versión disponible y vuelve a conectar a la interfaz de gestión.
-3. Cuando te aparezca el asistente de configuración inicial, cancela el asistente.
-4. En el menu de wizards, selecciona WAN+2LAN2 y configura los siguientes parámetros: 
+1. Configura tu tarjeta de red en el PC con una dirección IP estática de la red 192.168.1.X (por ejemplo, 192.168.1.3)
+2. Conecta la alimentación y el cable de red al puerto **eth0** de tu edgerouter, conecta el otro extremo del cable de red al PC (directamente) y accede a la interfaz de gestión (http://192.168.1.1) con el usuario predeterminado (ubnt/ubnt). Cuando te aparezca el asistente de configuración inicial, cancela el asistente.
+3. Actualiza el firmware del edgerouter a la última versión disponible y vuelve a conectar a la interfaz de gestión.
+4. Cuando te aparezca el asistente de configuración inicial, cancela el asistente.
+5. En el menu de wizards, selecciona WAN+2LAN2 y configura los siguientes parámetros: 
    - Internet port (eth0):
      - Internet connection type: **DHCP**
      - VLAN: marca la casilla **Internet connection is on VLAN** y pon como *VLAN ID* el valor **20**
@@ -47,8 +48,8 @@ Instrucciones para reemplazar el modem/router de fibra que te instalan en MasMov
      - Address: **192.168.3.1** / **255.255.255.0**
      - DHCP: marca la casilla **Enable the DHCP server**
    - User Setup: *OPCIONAL*: por seguridad deberías crear un nuevo usuario administrador con una clave segura. Te recomiendo que al terminar, una vez verifiques que puedes conectar con este nuevo usuario, elimines el usuario predeterminado *ubnt*.
-5. Aplica los cambios y confirma que quieres reiniciar el router. Ten en cuenta que al aplicar y reiniciar perderás la conectividad al router, dado que hemos cambiado la configuración IP.
-6. Vuelve a dejar la conexión de red de tu PC en **DHCP**.
+6. Aplica los cambios y confirma que quieres reiniciar el router. Ten en cuenta que al aplicar y reiniciar perderás la conectividad al router, dado que hemos cambiado la configuración IP.
+7. Vuelve a dejar la conexión de red de tu PC en **DHCP**.
 
 ## Conexión de UFiber, EdgeRouter y LAN
 
