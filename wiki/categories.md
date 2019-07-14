@@ -19,3 +19,5 @@
 [Software](software.md)
 
 [Varios](varios.md)
+
+[Network](network.md)
