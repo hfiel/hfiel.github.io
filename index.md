@@ -26,6 +26,8 @@ Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.
 
 [Software](wiki/software.md)
 
+[Network](wiki/network.md)
+
 [Varios](wiki/varios.md)
 
 
