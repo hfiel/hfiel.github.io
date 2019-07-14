@@ -1,1 +1,1 @@
-# Usar GPON ufiber y EdgeRouter para conectar a la red de fibra de MasMovil / Pepephone
+# UFiber y EdgeRouter para conectar a la red de fibra de MasMovil / Pepephone
