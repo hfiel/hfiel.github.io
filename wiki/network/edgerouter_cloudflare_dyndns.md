@@ -17,6 +17,7 @@ You know how to connect to your router by SSH
 
 ## Commands for CLI (SSH)
 
+```
 configure
 
 set service dns dynamic interface eth0 service custom-cloudflare host-name example.domain.com
@@ -34,11 +35,16 @@ set service dns dynamic interface eth0 service custom-cloudflare options "zone=d
 commit
 
 save
+```
 
 ## Verify status
 
+```
 show dns dynamic status
+```
 
 ## Force an update
 
+```
 update dns dynamic interface eth0
+```
