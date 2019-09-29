@@ -1,6 +1,6 @@
 # Using Cloudflare API to update a DNS A record with Edgerouter DDNS service
 
-All this is already on ther internet, and this is a mix of several sources, but specially I put it here because of the "server" option, that caused me some headache.
+All this is already on the internet, and is a mix of several sources, but specially I put it here because of the "server" option, that caused me some headache.
 
 NOTE: the A record (example.domain.com) MUST exists in Cloudflare before setting this.
 You also need the Global API KEY from Cloudflare.
