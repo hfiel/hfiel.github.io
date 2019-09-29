@@ -7,13 +7,14 @@ You also need the Global API KEY from Cloudflare.
 
 ## Asumptioms and clarifications
 
-Your internet interface (i.e., the one with your changing public IP address) is eth0.
-NOTE: If your ISP provides your service through a VLAN, it may be something like eth0.10. Please verify in the dashboard which interface name you need.
-Your Cloudflare subdomain is example.domain.com
-Your Cloudflare zone is domain.com
-Your Cloudflare username is myuser@cloudflare.com
-The name we will define for the service in the router is "custom-cloudflare"
-You know how to connect to your router by SSH
+   -  Your internet interface (i.e., the one with your changing public IP address) is eth0.
+    - NOTE: If your ISP provides your service through a VLAN, it may be something like eth0.10. Please verify in the dashboard which interface name you need.
+   - Your Cloudflare subdomain is example.domain.com
+   - Your Cloudflare zone is domain.com
+   - Your Cloudflare username is myuser@cloudflare.com
+   - Your Cloudflare Global API KEY is 1234567abcdefg1234567   
+   - The name we will define for the service in the router is "custom-cloudflare"
+   - You know how to connect to your router by SSH
 
 ## Commands for CLI (SSH)
 
