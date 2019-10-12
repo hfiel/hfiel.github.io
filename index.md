@@ -18,7 +18,7 @@ Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.
 
 [Programación](wiki/programacion.md)
 
-[BBDD](wiki/bbdd.md)
+[DB](wiki/db.md)
 
 [Redes](wiki/redes.md)
 
