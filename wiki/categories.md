@@ -10,7 +10,7 @@
 
 [Programación](programacion.md)
 
-[BBDD](bbdd.md)
+[DB](db.md)
 
 [Redes](redes.md)
 
