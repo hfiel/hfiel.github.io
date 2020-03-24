@@ -17,8 +17,8 @@ gcloud beta services vpc-peerings update \
     --force
 ```
 
-This error may happen also when you use old versions of the [Terraform Google Cloud Platform Beta Provider](https://github.com/terraform-providers/terraform-provider-google-beta) (and fixed since v3.1.0):
-https://github.com/terraform-providers/terraform-provider-google/issues/3294
+This error may happen also when you use old versions of the [Terraform Google Cloud Platform Beta Provider](https://github.com/terraform-providers/terraform-provider-google-beta) (is fixed since v3.1.0 of the provider):
+[https://github.com/terraform-providers/terraform-provider-google/issues/3294]
 
 Related issues in [Google Issue Tracker](https://issuetracker.google.com):
 
