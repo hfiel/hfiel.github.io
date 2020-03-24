@@ -22,6 +22,6 @@ https://github.com/terraform-providers/terraform-provider-google/issues/3294
 
 Related issues in [Google Issue Tracker](https://issuetracker.google.com):
 
-https://issuetracker.google.com/issues/131908322
+[https://issuetracker.google.com/issues/131908322]
 
-https://issuetracker.google.com/issues/118849070
+[https://issuetracker.google.com/issues/118849070]
