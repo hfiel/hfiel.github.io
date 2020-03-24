@@ -8,6 +8,8 @@ Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.
 
 ## [Categories](wiki/categories.md)
 
+[GCP](wiki/gcp.md)
+
 [Linux](wiki/linux.md)
 
 [Windows](wiki/windows.md)
