@@ -8,7 +8,7 @@ Instrucciones para reemplazar el modem/router de fibra que te instalan en MasMov
 2. Router Ubiquiti EdgeRouter (en este ejemplo se muestra con un *EdgeRouter Lite*, es equivalente en otros modelos como el *Edgerouter X SPF*).
 3. La clave de conexión a tu servicio de fibra.
    - Esto te lo puede dar el técnico al hacer la instalación si se lo pides amablemente (es uno de los parámetros que introduce en la configuración del router)
-   - Si ya tienes la instalación terminada, lo puedes intentar sacar de la configuración de tu router a través del bug de Samba. Puedes encontrar instrucciones detalladas en el [Blog tecnológico de Álferez](https://www.alferez.es/sacando-los-datos-del-router-de-fibra-masmovil/)
+   - Si ya tienes la instalación terminada, lo puedes intentar sacar de la configuración de tu router a través del bug de Samba. Puedes encontrar instrucciones detalladas en el [Blog tecnológico de Alférez](https://www.alferez.es/sacando-los-datos-del-router-de-fibra-masmovil/)
 4. Descarga de la [web de Ubiquiti](https://www.ui.com/download/) el firmware más actualizado para tu UFiber Loco / Nano G y guárdalo en tu PC.
 5. Descarga de la [web de Ubiquiti](https://www.ui.com/download/) el firmware más actualizado para tu EdgeRouter y guárdalo en tu PC.
 
@@ -22,7 +22,7 @@ Instrucciones para reemplazar el modem/router de fibra que te instalan en MasMov
    - OLT PROFILE: **Profile 2**
    - LOGICAL ID: **123456789** (Opcional, puedes dejarlo en blanco)
    - LOGICAL PASSWORD: **123456**
-   - PLOAM PASSWORD: **<CLAVE DE TU FIBRA>**
+   - PLOAM PASSWORD: **CLAVE DE TU FIBRA**
    - HEX FORMAT: **OFF**
    - CHANGE SN PREFIX TO HWTC: **OFF**
 7. Aplica los cambios y guarda la configuración.
