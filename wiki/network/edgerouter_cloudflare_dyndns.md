@@ -29,13 +29,17 @@ set service dns dynamic interface eth0 service custom-cloudflare password 123456
 
 set service dns dynamic interface eth0 service custom-cloudflare protocol cloudflare
 
-set service dns dynamic interface eth0 service custom-cloudflare server api.cloudflare.com/client/v4/
-
 set service dns dynamic interface eth0 service custom-cloudflare options "zone=domain.com use=web ssl=yes"
 
 commit
 
 save
+```
+
+### Note for old versions (<1.10.5)
+You need to set also the server using:
+```
+set service dns dynamic interface eth0 service custom-cloudflare server api.cloudflare.com/client/v4/
 ```
 
 ## Verify status
