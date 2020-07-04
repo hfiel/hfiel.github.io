@@ -3,7 +3,9 @@
 
 This is a permanent WIP.
 
-Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.hfiel.es)
+_Please use caution when using any commands from this wiki._
+
+Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.hfiel.es). That content has not been reviewed/updated in a long time, it may not be right anymore. 
 
 
 ## [Categories](wiki/categories.md)
