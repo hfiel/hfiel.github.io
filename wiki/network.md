@@ -12,3 +12,4 @@
 
 [VPN IPSec con certificados en EdgeRouter](network/vpn_ipsec_edgerouter.md)
 
+[VPN OpenVPN on Edgerouter](network/vpn_openvpn_edgerouter.md)
