@@ -2,7 +2,7 @@
 
 All this is already on the internet, and is a mix of several sources, but specially I put it here because of the "server" option, that caused me some headache.
 
-NOTE: the A record (example.domain.com) MUST exists in Cloudflare before setting this.
+NOTE: the A record (example.domain.com) MUST exist in Cloudflare BEFORE setting this.
 You also need the Global API KEY from Cloudflare.
 
 ## Asumptioms and clarifications
