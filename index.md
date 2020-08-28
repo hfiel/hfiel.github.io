@@ -24,8 +24,6 @@ Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.
 
 [DB](wiki/db.md)
 
-[Redes](wiki/redes.md)
-
 [Raspberry](wiki/raspberry.md)
 
 [Software](wiki/software.md)
