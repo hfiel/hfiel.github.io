@@ -24,5 +24,5 @@ After a clean install of Ubuntu and installation of some basic (and unrelated) t
 
 ```
  sudo apt-get update && sudo apt-get upgrade
- python --version
+ python3 --version
 ```
