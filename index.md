@@ -10,6 +10,8 @@ Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.
 
 ## [Categories](wiki/categories.md)
 
+[ML/AI (WIP)](wiki/ml.md)
+
 [GCP](wiki/gcp.md)
 
 [Linux](wiki/linux.md)
