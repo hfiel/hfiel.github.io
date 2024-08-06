@@ -71,3 +71,18 @@ Verify that you can run docker without sudo:
 ```
 docker run hello-world
 ```
+
+Finally, configure log rotation (to avoid docker logs eating your disk space). Here I define a 20m maximun size and keep 5 rotations:
+
+```
+sudo touch /etc/docker/daemon.json
+sudo sudo tee -a /etc/docker/daemon.json<< EOF
+{
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "20m",
+    "max-file": "5"
+  }
+}
+EOF
+```
