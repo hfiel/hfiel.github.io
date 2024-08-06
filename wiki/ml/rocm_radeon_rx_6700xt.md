@@ -13,11 +13,14 @@ My setup:
 
 Desired goals:
 
- - All inside a container (to avoid messing with the native OS versions)
+ - As much as possible inside a container (to avoid messing with the native OS versions)
+ - ROCm 6
  - PyTorch 2.4
  - Jupyter notebook 7.2
 
-Both programs should be running using the GPU.
+All programs should be running using the GPU.
+
+Please note: in order to use ROCm inside docker containers, the ROCm kernel has to be deployed inside the host system.
 
 ## First steps
 
