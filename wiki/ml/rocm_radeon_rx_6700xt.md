@@ -57,3 +57,17 @@ Verify docker works:
 ```
 sudo docker run hello-world
 ```
+
+Now we configure the docker group, and add our own user to that group (note that the first command will probably fail, since you should already have a docker group):
+
+```
+sudo groupadd docker
+sudo usermod -aG docker $USER
+newgrp docker
+```
+
+Verify that you can run docker without sudo:
+
+```
+docker run hello-world
+```
