@@ -13,10 +13,11 @@ My setup:
 
 Desired goals:
 
+ - All inside a container (to avoid messing with the native OS versions)
  - PyTorch 2.4
  - Jupyter notebook 7.2
 
-Both should be running using the GPU.
+Both programs should be running using the GPU.
 
 ## First steps
 
