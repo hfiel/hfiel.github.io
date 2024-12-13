@@ -14,7 +14,7 @@
 
 [TFTP server en linux](linux/tftp_server_en_linux.md)
 
-[](linux/.md)
+[Connect Logitech MX keyboard or mouse using bluetooth](linux/logitech_mx_bluetooth.md)
 
 [](linux/.md)
 
