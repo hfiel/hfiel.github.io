@@ -16,6 +16,8 @@
 
 [Connect Logitech MX keyboard or mouse using bluetooth](linux/logitech_mx_bluetooth.md)
 
+[Install missing dependencies after installing DEB package with dpkg ](linux/install_missing_dependencies_deb_dpkg.md)
+
 [](linux/.md)
 
 [](linux/.md)
