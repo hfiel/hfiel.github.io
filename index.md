@@ -16,6 +16,8 @@ Currently the content is (slowly) being moved from [wiki.hfiel.es](https://wiki.
 
 [Linux](wiki/linux.md)
 
+[Proxmox](wiki/proxmox.md)
+
 [Windows](wiki/windows.md)
 
 [Apple](wiki/apple.md)
