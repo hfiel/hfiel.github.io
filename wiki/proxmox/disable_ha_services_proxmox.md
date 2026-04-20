@@ -10,3 +10,12 @@ systemctl stop pve-ha-crm
 systemctl disable pve-ha-lrm
 systemctl disable pve-ha-crm
 ```
+
+Then you can also STOP and DISABLE `corosync`, in case you do not need it.
+
+```
+systemctl stop corosync
+systemctl disable corosync
+```
+
+And please DO NOT disable the `pve-cluster` service, because it is needed for normal use of PVE. You can momentarily STOP it for temporary work (like doing repairs in filesystems or volumes), but you probably want to keep it enabled.
