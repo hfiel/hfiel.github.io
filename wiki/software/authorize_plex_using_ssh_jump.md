@@ -25,6 +25,8 @@ copy the private key to your local system
 
 ## SSH jump using linux
 
+here i am using 192.168.20.22 as the plex server container IP.
+
 ```
 ssh root@192.168.20.22 -L 8888:localhost:32400
 ```
